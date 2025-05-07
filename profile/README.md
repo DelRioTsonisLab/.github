@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.eyeregenerationlab.com/">
-    <img src="https://github.com/Neofita22/Images/blob/main/piclab.JPG?raw=true" width= 650px height="250px">
+    <img src="https://github.com/DelRioTsonisLab/.github/blob/main/profile/piclab.JPG?raw=true" width= 650px height="250px">
   </a>
 </p>
 
