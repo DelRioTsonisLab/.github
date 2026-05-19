@@ -24,3 +24,4 @@ If you are interested, please check our **lab page** to know our researchs and f
 ##
 > This organization is just for members of the lab.
 
+#### Maintainer: Stacy Bendezu
